@@ -1,0 +1,3 @@
+rootProject.name = 'FitFam_App'
+
+include ':app'
